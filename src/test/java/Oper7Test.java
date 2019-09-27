@@ -18,7 +18,7 @@ import Ayuda.Ayuda;
 import Ayuda.Conexion;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+//@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 
 public class Oper7Test {
 

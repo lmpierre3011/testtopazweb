@@ -1,7 +1,7 @@
 package Ayuda;
 
+import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.util.List;
-import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
@@ -27,11 +27,11 @@ public class Ayuda {
 	}
 
 	public void assertTexto(WebElement elemento, String text) {
-		Assert.assertTrue(elemento.getText().equals(text));
+		assertTrue(elemento.getText().equals(text));
 	}
 
 	public void assertContainsTexto(WebElement elemento, String text) {
-		Assert.assertTrue(elemento.getText().contains(text));
+		assertTrue(elemento.getText().contains(text));
 	}
 	
 	public void clickDerecho(WebDriver driver, WebElement element) {

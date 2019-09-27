@@ -20,7 +20,7 @@ import pages.pageLogin;
 import pages.pageOper3PF;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+//@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class Oper3PFTest {
 
 	private WebDriver driverChrome;

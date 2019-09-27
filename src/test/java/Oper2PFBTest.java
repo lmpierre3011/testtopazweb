@@ -20,7 +20,7 @@ import pages.pageLogin;
 import pages.pageOper2PFB;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
-@FixMethodOrder(MethodSorters.NAME_ASCENDING)
+//@FixMethodOrder(MethodSorters.NAME_ASCENDING)
 
 public class Oper2PFBTest {
 
