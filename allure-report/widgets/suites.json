@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "b97dad0a975b335a0cd4f4bf6602b0f7",
+    "name" : "MiaUnoTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 5,
+      "skipped" : 0,
+      "passed" : 9,
+      "unknown" : 0,
+      "total" : 14
+    }
+  } ]
+}

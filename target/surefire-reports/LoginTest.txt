@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: LoginTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 16.752 s <<< FAILURE! - in LoginTest
+a_pruebaUno{String, String, boolean}[3]  Time elapsed: 1.261 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/junit/Assert
+	at LoginTest.a_pruebaUno(LoginTest.java:37)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+	at LoginTest.a_pruebaUno(LoginTest.java:37)
+
