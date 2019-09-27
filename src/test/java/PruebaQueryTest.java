@@ -1,8 +1,8 @@
 
-import org.junit.FixMethodOrder;
+
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
-import org.junit.runners.MethodSorters;
+
 import Ayuda.ConexionBD;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)

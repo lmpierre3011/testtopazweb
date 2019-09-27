@@ -1,11 +1,11 @@
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import org.junit.FixMethodOrder;
+
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
-import org.junit.runners.MethodSorters;
+
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 

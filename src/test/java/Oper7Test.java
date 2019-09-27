@@ -1,11 +1,11 @@
 
-import org.junit.FixMethodOrder;
+
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ArgumentsSource;
-import org.junit.runners.MethodSorters;
+
 import org.openqa.selenium.WebDriver;
 import Asserts.pageFindOper;
 import Repositorio.repoOper7_CB_PF;
